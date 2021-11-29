@@ -1,0 +1,16 @@
+h1{
+    text-align:center ;
+    font-size:30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:maroon;
+
+}
+#Apps{
+    background-color: mediumspringgreen;
+}
+#Games{
+    background-color: mediumvioletred;
+}
+#Chat{
+    background-color: orangered;
+}
